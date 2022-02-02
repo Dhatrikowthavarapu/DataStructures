@@ -1,4 +1,4 @@
-#1.PROGRAM CODE :
+#1.PROGRAM CODE for BUBBLE SORT:
 n=int(input())
 a=list(map(int,input().split()))
 for j in range(n+1):
@@ -14,7 +14,7 @@ print(a)
 6 4 3 2 5
 [2, 3, 4, 5, 6]"""
 
-#2.PROGRAM CODE :
+#2.PROGRAM CODE for INSERTION SORT:
 n=int(input())
 a=list(map(int,input().split()))
 for j in range(n+1):
@@ -29,7 +29,7 @@ print(a)
 6 4 3 2 5
 [2, 3, 4, 5, 6]"""
 
-#3.PROGRAM CODE :
+#3.PROGRAM CODE for SELECTION SORT:
 n=int(input())
 a=list(map(int,input().split()))
 for j in range(n+1):
